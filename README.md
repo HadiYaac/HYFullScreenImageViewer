@@ -6,3 +6,4 @@ Clicking on profile images, image in carousel, banner, cover photo etc.. You wan
 2. Find better name for this repository
 3. Fix animation
 4. Force touch to load web page if image has link
+5. Add documentation

@@ -7,3 +7,9 @@ Clicking on profile images, image in carousel, banner, cover photo etc.. You wan
 3. Fix animation
 4. Force touch to load web page if image has link
 5. Add documentation
+
+# Usage
+On your desired action, just create an instance from HYFullScreenImage passing it your image view. Example:
+
+`let viewController = HYFullScreenImage(imageView: self.driverProfileImage);
+viewController.presentInCurrentKeyWindow()`
